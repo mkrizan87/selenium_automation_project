@@ -1,10 +1,10 @@
-#Selenium Multi-Site Login Automation#
+# Selenium Multi-Site Login Automation
 
-##Overview##
+## Overview
 
 This project automates login testing for multiple popular websites using Selenium WebDriver. The script navigates to each login page, inputs dummy credentials, and attempts to interact with the login button. It then logs success or failure for each website.
 
-#Features#
+### Features
 
 ✅ Automates login form interactions for 10+ websites.
 
@@ -16,7 +16,7 @@ This project automates login testing for multiple popular websites using Seleniu
 
 ✅ Uses headless mode compatibility (can be toggled for silent execution).
 
-#Technologies Used#
+### Technologies Used
 
 🐍 Python
 
@@ -26,7 +26,7 @@ This project automates login testing for multiple popular websites using Seleniu
 
 📝 Logging module for structured test results
 
-#Limitations#
+### Limitations
 
 ❌ Some websites use CAPTCHAs or bot detection, which may prevent interaction.
 
@@ -34,7 +34,7 @@ This project automates login testing for multiple popular websites using Seleniu
 
 ❌ Not all pop-ups and cookies are handled dynamically.
 
-#License#
+### License
 
 This project is released under the MIT License.
 
